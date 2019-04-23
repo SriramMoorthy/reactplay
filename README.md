@@ -1,2 +1,0 @@
-# reactplay
-Created with CodeSandbox
